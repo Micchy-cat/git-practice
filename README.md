@@ -1,5 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-#31を実施中です  
-★★★#43のnew-featureブランチで変更！==>>#46：merge conflict!!
-#53で、ローカルリポのブランチconflict-remote上で変更！！
+＃56で、fork元のリポにPRを作成するため、ローカルリポで変更を加えた
