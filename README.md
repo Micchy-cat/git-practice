@@ -3,3 +3,4 @@
 #31を実施中です  
 ★★★#43のnew-featureブランチで変更！==>>#46：merge conflict!!
 #69:rebase-practiceブランチで更新(rebase conflict用)
+rebase用ーGitHubで編集
