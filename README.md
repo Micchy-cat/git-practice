@@ -6,3 +6,4 @@
 rebase用ーGitHubで編集
 #73：stashの練習
 #75:stash練習(トラック済み)
+#77:stash練習(2nd変更)
